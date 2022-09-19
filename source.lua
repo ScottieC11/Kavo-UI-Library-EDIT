@@ -124,7 +124,7 @@ local themeStyles = {
         Background = Color3.fromRGB(244, 195, 202),
         Header = Color3.fromRGB(244, 170, 230),
         TextColor = Color3.fromRGB(255,255,255),
-        ElementColor = Color3.fromRGB(22, 29, 31)
+        ElementColor = Color3.fromRGB(244, 170, 230)
     }
 }
 local oldTheme = ""
